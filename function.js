@@ -1,3 +1,3 @@
  function displayMessage(){
- alert("HELLOOO!");
+ alert("HELLOOO! WELCOME TO MY PAGE!");
 }
