@@ -1,3 +1,4 @@
-a{
+a: link{
+  <link rel="stylesheet" href="styles.css"/>  
   color: "pink"
 }
