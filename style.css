@@ -1,4 +1,5 @@
 a: href="./about.html">Link</a> {
-   <link rel="./about.html"  style: "color: green;">
+   <link rel="./about.html"  style: "cstyles.css;">
+   color: pink
    </a>
 }
